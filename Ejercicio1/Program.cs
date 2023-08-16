@@ -7,7 +7,7 @@ using System.Windows.Forms;
 namespace Ejercicio1
 {
     internal static class Program
-    {
+    { //le agrego un comentario
         /// <summary>
         /// Punto de entrada principal para la aplicación.
         /// </summary>
